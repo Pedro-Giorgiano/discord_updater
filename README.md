@@ -1,4 +1,4 @@
-# Discord Installer Script
+# Discord Update Script
 
 This Bash script downloads and installs Discord on a Linux system (Debian-based distributions). After installation, the downloaded `.deb` file is automatically removed.
 
